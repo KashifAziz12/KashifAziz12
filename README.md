@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KashifAziz12
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning AWS 
+- 🌱 I’m currently learning AZURE 
 - 💞️ I’m looking to collaborate with new technologies.
 - 📫 How to reach me kashifmd93@gmail.com
